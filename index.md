@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## LARGE-SCALE DEEP LEARNING: TRENDS and APPLICATIONS
+### with Invited Guest Speakers from Samsung – ISC 2018
 
-You can use the [editor on GitHub](https://github.com/cray-ml/isc18/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Speakers: Rangan Sukumar, Aaron Vose, Jacob Balma, Hars Vardhan, Schuyler Cullen, and Vish Rajalingam
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Abstract
+Deep learning adoption in the industry is a journey that begins with identifying appropriate datasets and use-cases, investing in curation and creation of appropriate labels that map to monetizable business problems, building a team of data and machine learning scientists that are capable of designing algorithms that train fast and accurate models, and supporting the team with a performant and productive compute infrastructure.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cray-ml/isc18/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This workshop brings together experts and practitioners that are leveraging supercomputing principles and best practices for real-world in-production use-cases to present their experience and valuable lessons. The workshop will offer a platform for exposition of how deep learning use-cases in industry are evolving, open-challenges in training deep networks at scale, the state-of-the-practice in hyper-parameter optimization, shortcomings of existing datasets and methods, and emphasize system design choices which maximize both productivity and performance.
