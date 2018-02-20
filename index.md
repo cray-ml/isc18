@@ -1,5 +1,4 @@
-## LARGE-SCALE DEEP LEARNING: TRENDS and APPLICATIONS
-### with Invited Guest Speakers from Samsung – ISC 2018
+## LARGE-SCALE DEEP LEARNING: TRENDS and APPLICATIONS with Invited Guest Speakers from Samsung at ISC 2018
 
 Speakers: Rangan Sukumar, Aaron Vose, Jacob Balma, Hars Vardhan, Schuyler Cullen, and Vish Rajalingam
 
