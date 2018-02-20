@@ -1,5 +1,4 @@
-## Large-Scale Deep Learning: Trends and Applications
-### with Invited Guest Speakers from Samsung at ISC 2018
+## Large-Scale Deep Learning: Trends and Applications with Invited Guest Speakers from Samsung at ISC 2018
 
 Speakers: Rangan Sukumar, Aaron Vose, Jacob Balma, Hars Vardhan, Schuyler Cullen, and Vish Rajalingam
 
