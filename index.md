@@ -12,29 +12,29 @@ Cray is joined by Samsung in the following series of talks including invited ind
 
 - Talk: Achieving Deep Learning Maturity in the Enterprise
 
-Rangan Sukumar, Cray Inc. (1.5h)
+  Rangan Sukumar, Cray Inc. (1.5h)
 
-Presents techniques and best practices for effective and efficient utilization of machine learning.
-Covers the journey of deep learning for real-world enterprise problems from beginning to end.
-As the first talk in the series, this includes an introduction to DL and has a big-picture perspective.
+  Presents techniques and best practices for effective and efficient utilization of machine learning.
+  Covers the journey of deep learning for real-world enterprise problems from beginning to end.
+  As the first talk in the series, this includes an introduction to DL and has a big-picture perspective.
 
 - Talk: Is Deep Learning a High-Performance Computing Problem?
 
-Jacob Balma, Cray Inc. (1.5h)
+  Jacob Balma, Cray Inc. (1.5h)
 
-Presents deep learning as a classic high-performance computing problem which demands:
-  1. large compute capacity in terms of FLOPs as well as memory capacity and bandwidth,
-  2. a performant node interconnect for fast exchange of gradients and model parameters, and
-  3. parallel IO and storage with sufficient bandwidth to keep all this compute fed at scale.
+  Presents deep learning as a classic high-performance computing problem which demands:
+    1. large compute capacity in terms of FLOPs as well as memory capacity and bandwidth,
+    2. a performant node interconnect for fast exchange of gradients and model parameters, and
+    3. parallel IO and storage with sufficient bandwidth to keep all this compute fed at scale.
 
 - Talk: Neural Network Hyperparameter Optimization: State-of-the-Practice
 
-Aaron Vose, Cray Inc. (1.5h)
+  Aaron Vose, Cray Inc. (1.5h)
 
-Presents a realistic neural network training workflow with hyperparameter optimization (HPO).
-Covers the exploration and optimization of neural network topologies and training regimes.
-Includes basic and advanced techniques for using HPO to increase DL practitioner productivity.
+  Presents a realistic neural network training workflow with hyperparameter optimization (HPO).
+  Covers the exploration and optimization of neural network topologies and training regimes.
+  Includes basic and advanced techniques for using HPO to increase DL practitioner productivity.
 
 - Customer Talk: Real-World Use-Cases Beyond ImageNet: Gaps and Bottlenecks
 
-Hars Vardhan, Schuyler Cullen, and Vish Rajalingam, Samsung Inc. (1.5h)
+  Hars Vardhan, Schuyler Cullen, and Vish Rajalingam, Samsung Inc. (1.5h)
