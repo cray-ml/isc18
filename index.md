@@ -20,9 +20,9 @@ As the first talk in the series, this includes an introduction to DL and has a b
 - Talk: Is Deep Learning a High-Performance Computing Problem?
 Jacob Balma, Cray Inc. (1.5h)
 Presents deep learning as a classic high-performance computing problem which demands:
-1) large compute capacity in terms of FLOPs as well as memory capacity and bandwidth,
-2) a performant node interconnect for fast exchange of gradients and model parameters, and
-3) parallel IO and storage with sufficient bandwidth to keep all this compute fed at scale.
+1. large compute capacity in terms of FLOPs as well as memory capacity and bandwidth,
+2. a performant node interconnect for fast exchange of gradients and model parameters, and
+3. parallel IO and storage with sufficient bandwidth to keep all this compute fed at scale.
 
 - Talk: Neural Network Hyperparameter Optimization: State-of-the-Practice
 Aaron Vose, Cray Inc. (1.5h)
